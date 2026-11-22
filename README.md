@@ -18,6 +18,8 @@ A real early-stage startup needs paid subscribers, not just downloads, and has n
 
 ## Results
 
+![Horizontal bar chart of the pilot funnel: 15 visits, 15 installs, 4 trials, and 0 subscriptions](pilot_funnel.png)
+
 | Funnel stage | Count |
 |---|---|
 | Visits / interactions | 15 |
