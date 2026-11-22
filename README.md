@@ -29,9 +29,9 @@ A real early-stage startup needs paid subscribers, not just downloads, and has n
 
 ## Deliverables
 
-- [`MKT - PHASE 1 - LIVECHALLENGE.pdf`](MKT%20-%20PHASE%201%20-%20LIVECHALLENGE.pdf) — user research report.
-- [`Live Challenge_ Phase 2 (1).pdf`](Live%20Challenge_%20Phase%202%20(1).pdf) — marketing strategy.
-- [`Phase 3 Final Version.pdf`](Phase%203%20Final%20Version.pdf) — pilot execution, funnel analytics, and recommendations.
+- [`layers_phase1_user_research.pdf`](layers_phase1_user_research.pdf) — user research report.
+- [`layers_phase2_strategy.pdf`](layers_phase2_strategy.pdf) — marketing strategy.
+- [`layers_phase3_pilot_results.pdf`](layers_phase3_pilot_results.pdf) — pilot execution, funnel analytics, and recommendations.
 
 ## Stack
 
